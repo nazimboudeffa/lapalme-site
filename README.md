@@ -1,3 +1,3 @@
 # Site Web de la Palme
 
-Petite association Licence Master de l'ISTIC
+Petite Association Licence Master de l'ISTIC mais aussi son BDE
